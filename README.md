@@ -43,9 +43,6 @@ Proyek ini akan membantu dalam mengoptimalkan operasi akuakultur melalui pengelo
 - Transformasi Data (Transformation)
 - Memuat Data (Load)
 - Membuat Dasboard untuk memvisualisasikan data 
-
-Dasboard Transaksi
-![alt text](image-1.png)
-
-Dashboard Product
-![alt text](image.png)
+  link LookerStudio
+  https://lookerstudio.google.com/reporting/bafaf7df-3a7b-4cdd-adac-25fd50315901
+  
