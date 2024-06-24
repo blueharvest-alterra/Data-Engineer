@@ -1,0 +1,95 @@
+id,destination_address_id,name,fee,type
+e079c5d5-001a-43b0-8a95-d949482e7e72,aba75454-1822-4b34-9652-8abb5ce746db,POS Indonesia (POS),380000,Pos Ekonomi
+bb1e6068-1267-40c0-9347-de90912ce587,fbc5ebd2-d527-4efc-ad8c-baf99363c648,Jalur Nugraha Ekakurir (JNE),26000,REG
+d7ecf160-6c73-46eb-9648-63cf8ed99742,3e52ee75-a7df-4fb4-b81a-3106a255b332,Jalur Nugraha Ekakurir (JNE),19000,REG
+b869ec2a-b8bb-483a-8c23-a3e3a9a19d16,3e52ee75-a7df-4fb4-b81a-3106a255b332,Jalur Nugraha Ekakurir (JNE),19000,REG
+0838722b-acff-49b9-b51a-ab5262c30a69,3e52ee75-a7df-4fb4-b81a-3106a255b332,Jalur Nugraha Ekakurir (JNE),19000,REG
+60db9a83-fa03-42af-8420-eb871265b46c,3e52ee75-a7df-4fb4-b81a-3106a255b332,Jalur Nugraha Ekakurir (JNE),19000,REG
+73e49ca4-54b9-4fca-a74d-2815c3fbb178,3e52ee75-a7df-4fb4-b81a-3106a255b332,Jalur Nugraha Ekakurir (JNE),19000,REG
+fac14478-91fe-47f7-8be7-40b672f6ff52,d77449bd-d599-4429-afcc-9a0ae09489b0,Jalur Nugraha Ekakurir (JNE),19000,REG
+bdf9e5c0-5770-4006-8568-21d3064fedef,d77449bd-d599-4429-afcc-9a0ae09489b0,Jalur Nugraha Ekakurir (JNE),19000,REG
+d6d56548-c3cd-4441-bbeb-7cdf4b77f621,537009fb-89f4-4fdc-9ee2-24c4a728e6b8,POS Indonesia (POS),23000,Pos Nextday
+1f1e51b6-52fc-4e40-bb91-5f5ce287bf6f,537009fb-89f4-4fdc-9ee2-24c4a728e6b8,Citra Van Titipan Kilat (TIKI),19000,ECO
+190243f6-032a-494d-b33d-e09f77c3c3dd,537009fb-89f4-4fdc-9ee2-24c4a728e6b8,Jalur Nugraha Ekakurir (JNE),21000,OKE
+398ee6a3-8e5b-4975-81fa-76aa14cd8405,86c76e1a-f28e-4d50-a12c-6fb210a1a996,POS Indonesia (POS),8000,POS Reguler
+88b6d245-6db1-4296-a0c3-b9ae5d53f42e,86c76e1a-f28e-4d50-a12c-6fb210a1a996,POS Indonesia (POS),32000,POS Next Day
+8eade2a6-6296-4a87-ae18-4624e248f5b0,86c76e1a-f28e-4d50-a12c-6fb210a1a996,POS Indonesia (POS),32000,POS Next Day
+6ddc2f43-2e3c-4bdb-b76e-1aa6accb4b7f,fbc5ebd2-d527-4efc-ad8c-baf99363c648,POS Indonesia (POS),32000,POS Next Day
+d6a77868-3163-45c8-a1c1-e15dcc82ec4f,fbc5ebd2-d527-4efc-ad8c-baf99363c648,POS Indonesia (POS),32000,POS Next Day
+097e1592-7202-4b1d-9e21-261a1fa4adfb,fbc5ebd2-d527-4efc-ad8c-baf99363c648,POS Indonesia (POS),21000,POS Reguler
+cd43166e-f7b8-4159-8ba5-fab270037749,ed129443-a558-436f-9cf6-fef3641bf178,POS Indonesia (POS),8000,POS Reguler
+5b089a59-fba9-4cec-8812-53ddc249d714,ed129443-a558-436f-9cf6-fef3641bf178,POS Indonesia (POS),8000,POS Reguler
+b5f75891-4420-4223-a27c-f0bb7e17e4d0,ed129443-a558-436f-9cf6-fef3641bf178,POS Indonesia (POS),8000,POS Reguler
+aa03585b-eec6-4547-9f2f-dd79223e646a,e254c9cd-1ff7-4e6f-a381-75475c393aa1,POS Indonesia (POS),18000,POS Reguler
+5922e5be-0b2f-4c49-b981-879248dca899,e254c9cd-1ff7-4e6f-a381-75475c393aa1,POS Indonesia (POS),18000,POS Reguler
+62bbc79c-0ecf-47d3-a6be-5cbe47de6623,e254c9cd-1ff7-4e6f-a381-75475c393aa1,POS Indonesia (POS),18000,POS Reguler
+b0ef851b-bbda-4872-a817-4915466d8447,1e74908e-c828-4411-98e2-a8931ed6fe25,Citra Van Titipan Kilat (TIKI),23000,ONS
+20a9dd72-47b3-43a2-8a48-37212e586da9,1e74908e-c828-4411-98e2-a8931ed6fe25,Citra Van Titipan Kilat (TIKI),23000,ONS
+5c9903d6-a1c1-4309-ad5d-9489f30c673b,1e74908e-c828-4411-98e2-a8931ed6fe25,Citra Van Titipan Kilat (TIKI),23000,ONS
+f79d516e-80c2-456e-a2c2-5139a67cfd70,1e74908e-c828-4411-98e2-a8931ed6fe25,Citra Van Titipan Kilat (TIKI),23000,ONS
+014a9d5a-aade-4945-a0aa-ee1ace2dd6ab,1e74908e-c828-4411-98e2-a8931ed6fe25,Citra Van Titipan Kilat (TIKI),19000,ECO
+22fb54e7-c01f-446b-a458-e3fea0c7a402,815040b1-e9ad-4df4-990e-8b7fb31e0945,Citra Van Titipan Kilat (TIKI),8000,REG
+77ccca58-aefa-4d1f-9d62-88763716d931,815040b1-e9ad-4df4-990e-8b7fb31e0945,Citra Van Titipan Kilat (TIKI),8000,REG
+91888249-98ec-4cee-a3e1-dbc46dc6310e,815040b1-e9ad-4df4-990e-8b7fb31e0945,POS Indonesia (POS),32000,Pos Nextday
+d1ac363e-4bd4-4a8c-82ae-d7f58c377494,35ef1dad-4a8b-4ba6-907a-3e5917fdccba,Jalur Nugraha Ekakurir (JNE),21000,REG
+119c01d8-7f12-4e2a-bbfc-03b17366450b,35ef1dad-4a8b-4ba6-907a-3e5917fdccba,Jalur Nugraha Ekakurir (JNE),19000,OKE
+d24cdcd3-701c-4f6c-b233-4837cc1bd78b,d6b1edaf-37ce-4fe2-8306-c5f92788daec,Jalur Nugraha Ekakurir (JNE),8000,OKE
+1efc2858-3bbc-47a6-9a71-11fb32ea7be4,d6b1edaf-37ce-4fe2-8306-c5f92788daec,Jalur Nugraha Ekakurir (JNE),8000,OKE
+26810b3a-d140-4b10-ab44-c0ae0cab6e5f,d6b1edaf-37ce-4fe2-8306-c5f92788daec,Jalur Nugraha Ekakurir (JNE),8000,OKE
+20f8c970-b1d9-4f7d-8d93-2243e244b93f,d6b1edaf-37ce-4fe2-8306-c5f92788daec,Jalur Nugraha Ekakurir (JNE),8000,OKE
+53b3d8ba-ee11-446b-aed1-47ff46f61998,aba75454-1822-4b34-9652-8abb5ce746db,Jalur Nugraha Ekakurir (JNE),19000,REG
+b2d89c1d-7e4d-4f36-8ca8-beee34104a62,aba75454-1822-4b34-9652-8abb5ce746db,POS Indonesia (POS),32000,Pos Nextday
+aecc2338-3f15-4329-91ab-b38617589294,aba75454-1822-4b34-9652-8abb5ce746db,POS Indonesia (POS),32000,Pos Nextday
+8079a507-c002-4a27-bc9a-270605088ba4,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+abbd29fc-10be-4dfe-bc90-422358ed30b0,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+bf4e01b5-89a7-4a91-b68c-56efa92f9dd4,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+f6090518-ce28-432d-b95c-eb6a0bd93661,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+d8e39097-c137-47df-ac6e-3515753e275b,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+808f7c9a-4363-46c9-8666-ebebf4535b53,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+bb3a03c4-d48c-4fcd-9112-06b744723efb,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+48402303-faef-4371-9e64-f9584e13d587,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+4ec0c9c2-16c2-4f42-a981-1b8cca51e2cd,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+d441226a-092e-4d43-acf3-8abe329d4ca8,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+6994a788-6121-4433-99a1-629e48aa9dc3,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+9dfa4f84-3fef-4fd6-83e6-ee96d73422ae,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+3380439f-9409-47b1-acb0-bb98566d5d5c,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+1a15baf4-5cfb-4cb9-a3ac-79c0b405cc59,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+e3389da8-f933-4abe-b6b0-4d3cfb415ec7,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+a0aac6e0-9688-497a-ac89-22d69e4e2996,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+0ed2f689-49c1-4301-a6e8-82f888f755ee,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+88a8548a-86e9-4e28-a71d-3be089e333df,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+6cd19f2d-305b-47f7-ab1e-cead5c4eb0ea,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+12567a71-49b8-4c5f-b189-6cb16efcc225,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+6777f971-067c-424d-b7d7-3a1d5f9a1e32,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+ad2939cf-2904-4508-8904-b8d58514927b,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+439d2752-a02c-4504-83bc-db6ed075097c,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+40376568-6ee4-496f-b9dd-5aa28402187a,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+036aa642-f55e-49f5-8c69-f143277a5bed,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+18bd194b-b685-491c-9a21-efc82c558e47,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+c8e866ea-e5af-4510-9eca-ce6aae81b5fa,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+c1b1d36a-be14-4967-a72c-94aeeabea5ba,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+ddcb040d-d715-4239-a577-6538f5213ac8,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+477a07d3-b6f4-4e26-b5d5-d67b5bd603c1,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+79682b42-64f3-4fc4-ba0c-d4bc9447bfd7,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+6b99c71d-f8dd-4d83-aef5-ac4d90184a97,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+d266608f-4b8a-4f3a-9ea9-944ec40789d6,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+5e39c16e-0973-43db-addb-f2749e045b60,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+82f7c929-0a28-4022-87bb-74d323b044bd,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+dfdb9300-7204-4bab-a9a9-ee3f6d6f48df,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+53408c3a-0a05-454f-8675-50d621fb7a7f,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+e71db387-47a3-4b93-b002-35bdb93e13e2,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+f6aee4f3-3d2e-42b2-aa3e-6f6403e57857,afb66b6e-e79c-4bff-a5c8-211f90377cd9,POS Indonesia (POS),32000,Pos Nextday
+3ecd60a1-4002-4023-804b-8e997cf8e805,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+f10975b1-12a7-4776-94ff-8c084bc8a67c,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+f15de469-7dcd-4480-80ec-38431d784225,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+fb377449-1159-4eb7-ac81-49181dfcc5b3,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+0d1e4693-c3e6-41d0-b6e0-bda8f3cf4493,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+a7fd2aa0-4497-4e2b-978c-48119d213823,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+fdcc5347-ce85-4187-890f-51a4e95117b4,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+08f09b68-85d6-45b8-9784-0ed94b960327,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+0610472f-8cda-4c30-886d-de1651cb8619,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+b3e70bd5-192a-4319-9735-0c7ec3b2238a,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+613a396a-310c-4e2b-8282-7df9f7240fa0,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+ccf3d941-6dc2-48d5-a8f6-a28e7435070c,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+8b32509e-47fa-4813-a5e3-2d6e8752a6b7,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday
+4a6e9efb-68eb-4633-a1b8-bc1d270eaa8c,158a1bfa-8d56-4af1-9d68-e8821f0bfe62,POS Indonesia (POS),32000,Pos Nextday

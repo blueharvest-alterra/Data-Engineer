@@ -1,0 +1,2 @@
+id,customer_id,product_id,quantity,created_at,updated_at,deleted_at
+a32c9e28-1fa9-42cb-ab0c-94175edcc6fe,6dcdaf92-b668-4a16-adaa-9b2361f1731e,966bd3db-5299-4d1c-8f4c-9963691283d8,2,2024-06-22 07:59:48.102140+00:00,2024-06-22 07:59:48.102140+00:00,2024-06-23 10:14:49.088145+00:00
