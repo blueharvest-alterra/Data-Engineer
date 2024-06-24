@@ -13,7 +13,7 @@
   - [Features](#3features)
 
 ## About Project
-Proyek ini bertujuan untuk mempersiapkan data agar dapat digunakan dalam model prediksi biaya total proyek Bank Dunia dengan menerapkan proses ETL (Extract, Transform, Load). Data diekstraksi dari berbagai sumber seperti file CSV, JSON, XML, database SQLite, dan API World Bank. Selanjutnya, data tersebut digabungkan dan dibersihkan melalui beberapa langkah seperti penyesuaian tipe data, penanganan missing values, penghapusan duplikasi, dan penghapusan outliers. Transformasi data juga mencakup pembuatan variabel dummy, rekayasa fitur, serta penskalaan fitur. Data yang telah ditransformasi kemudian dimuat ke dalam database atau Google Cloud Storage. Proyek ini juga mencakup visualisasi dan analisis data menggunakan teknik visualisasi seperti Plotly, Matplotlib, dan Seaborn untuk menghasilkan analisis yang informatif dan menarik, termasuk analisis statistik deskriptif, korelasi, distribusi, tren, dan perbandingan.
+Proyek ini akan membantu dalam mengoptimalkan operasi akuakultur melalui pengelolaan data yang efektif dan memberikan wawasan yang diperlukan untuk pengambilan keputusan yang lebih baik. Sebagai data engineer kami membangun infrastruktur data yang kuat, memastikan data berkualitas tinggi, dan menyediakan alat visualisasi yang membantu pengguna dalam memahami data mereka.
 
 ## Tech Stacks
 ### Bahasa Pemrograman
