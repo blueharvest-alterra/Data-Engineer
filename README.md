@@ -18,12 +18,11 @@
 Proyek ini akan membantu dalam mengoptimalkan operasi akuakultur melalui pengelolaan data yang efektif dan memberikan wawasan yang diperlukan untuk pengambilan keputusan yang lebih baik. Sebagai data engineer kami membangun infrastruktur data yang kuat, memastikan data berkualitas tinggi, dan menyediakan alat visualisasi yang membantu pengguna dalam memahami data mereka.
 
 ### Star Schema
-![alt text](image.png)
-
+![alt text](<star skema.png>)
 ## Tech Stacks
 
 ### High Level Architecture Diagram
-![alt text](image-1.png)
+![alt text](<HLA Diagram.png>)
 
 ### Bahasa Pemrograman
 - Python: Digunakan sebagai bahasa pemrograman utama untuk seluruh proses ETL dan analisis data.
