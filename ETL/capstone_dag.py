@@ -34,7 +34,7 @@ def transform_data():
     return files_to_upload
 
 # Fungsi untuk memuat data ke BigQuery
-def load_data(**kwargs):
+def load_data():
     bucket_name = "micro-store-418519.appspot.com"  # Nama bucket di Firebase Storage
     dataset_id = "Capstone9"  # ID dataset di BigQuery
     credentials_path = "/home/abdan/airflow/dags/micro-store-418519-f667fac9300e.json"  # Path ke file kredensial
