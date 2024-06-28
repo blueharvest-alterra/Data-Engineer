@@ -18,7 +18,7 @@
 Proyek ini akan membantu dalam mengoptimalkan operasi akuakultur melalui pengelolaan data yang efektif dan memberikan wawasan yang diperlukan untuk pengambilan keputusan yang lebih baik. Sebagai data engineer kami membangun infrastruktur data yang kuat, memastikan data berkualitas tinggi, dan menyediakan alat visualisasi yang membantu pengguna dalam memahami data mereka.
 
 ### Star Schema
-![alt text](<star skema.png>)
+![alt text](<Star Schema.png>)
 ## Tech Stacks
 
 ### High Level Architecture Diagram
